@@ -1,0 +1,22 @@
+.main-container {
+  height: 200px;
+  width: 500px;
+  /* border: 1px solid red; */
+  padding: 15px;
+
+  /* border-style: dashed; */
+
+  border-left-style: dashed;
+  border-right-style: double;
+  /* border-color: blueviolet; */
+  border-left-color: aquamarine;
+
+  border-width: 2px;
+}
+.main-inner-heading {
+  font-size: 22px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.my_para {
+  font-weight: 900;
+}

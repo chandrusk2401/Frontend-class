@@ -1,0 +1,26 @@
+.my_para {
+  color: rgb(241 89 0);
+  background-color: aqua;
+  direction: rtl;
+  text-decoration-line: overline;
+  text-decoration-color: blueviolet;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 20px;
+
+  /* text-transform: capitalize; */
+  /* text-transform: lowercase; */
+  text-transform: uppercase;
+}
+.second_para {
+  line-height: 30px;
+  /* text-indent: 5cm; */
+  text-indent: 20px;
+  white-space: wrap;
+}
+.border_box {
+  padding: 20px;
+  border: 1px solid red;
+  padding-top: 40px;
+  margin: 20px;
+  margin-left: 48px;
+}

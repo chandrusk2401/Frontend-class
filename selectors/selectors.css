@@ -1,0 +1,40 @@
+/* element */
+h5 {
+  color: blue;
+}
+/* class */
+.my-Para-cls {
+  color: blueviolet;
+}
+/* id */
+#para {
+  color: cadetblue;
+  font-size: 20px;
+}
+
+/* universal */
+
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* group */
+.login-btn,
+.logout-btn,
+#para {
+  font-size: 20px;
+}
+
+/*  */
+.btn {
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  color: white;
+}
+
+.login-btn {
+  background-color: green;
+}
+.logout-btn {
+  background-color: red;
+}
